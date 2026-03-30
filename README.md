@@ -116,7 +116,7 @@ Capstone_Project-EDA___Visualization
 ```
 
 
-## Why This Topic?
+## Relevance of the Topic
 
 Electric vehicles play a critical role in **reducing carbon emissions** and promoting **sustainable transportation**. Understanding EV adoption patterns helps inform future infrastructure planning, policy decisions, and sustainable mobility solutions — making this both a technically rich and socially relevant analysis.
 
